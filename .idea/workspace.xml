@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed4fd0d0-cff2-457f-8a14-74ec3e3813e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PQ89rBwfhM7344nkhVKN1FuxDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GADiplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed4fd0d0-cff2-457f-8a14-74ec3e3813e8" name="Default Changelist" comment="" />
+      <created>1683377796381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683377796381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1683377908695">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="254" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.852@0.0.1600.852" timestamp="1683377908695" />
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom" timestamp="1687343255327">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="220" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1687343255327" />
+    <state width="1579" height="220" key="GridCell.Tab.0.center" timestamp="1687343255327">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="220" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1687343255327" />
+    <state width="1579" height="220" key="GridCell.Tab.0.left" timestamp="1687343255327">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="220" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1687343255327" />
+    <state width="1579" height="220" key="GridCell.Tab.0.right" timestamp="1687343255327">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="220" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1687343255327" />
+    <state width="1579" height="272" key="GridCell.Tab.1.bottom" timestamp="1687334961514">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.bottom/0.0.1600.852@0.0.1600.852" timestamp="1687334961514" />
+    <state width="1579" height="272" key="GridCell.Tab.1.center" timestamp="1687334961514">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.center/0.0.1600.852@0.0.1600.852" timestamp="1687334961514" />
+    <state width="1579" height="272" key="GridCell.Tab.1.left" timestamp="1687334961514">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.left/0.0.1600.852@0.0.1600.852" timestamp="1687334961514" />
+    <state width="1579" height="272" key="GridCell.Tab.1.right" timestamp="1687334961514">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1687334961514" />
+    <state x="301" y="68" key="SettingsEditor" timestamp="1683377862894">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="301" y="68" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1683377862894" />
+  </component>
+</project>
